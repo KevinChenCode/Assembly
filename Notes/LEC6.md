@@ -53,18 +53,18 @@ InputList: .word 1, 9, -3, 0x4, 5, 6, -7, 9, 1, 0
 
 Used to change program flow
 	
-	`bxx	ra,	rb,	Dest`
+`bxx	ra,	rb,	Dest`
 
 where xx is:
-	```
-	eq:		==
-	gw:		!=
-	lt:		<		
-	gt:		>
-	ge:		>=
-	le:		<=
-	r :		always
-	```
+```
+eq:		==
+gw:		!=
+lt:		<		
+gt:		>
+ge:		>=
+le:		<=
+r :		always
+```
 
 #Sections
 
