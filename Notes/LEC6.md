@@ -55,13 +55,14 @@ Used to change program flow
 	
 	`bxx	ra,	rb,	Dest`
 
-where xx is eq:		==
-			gw:		!=
-			lt:		<		
-			gt:		>
-			ge:		>=
-			le:		<=
-			r :		always
+where xx is:
+	eq:		==
+	gw:		!=
+	lt:		<		
+	gt:		>
+	ge:		>=
+	le:		<=
+	r :		always
 
 #Sections
 
