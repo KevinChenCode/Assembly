@@ -72,6 +72,7 @@ directive defining groups of assembly that is loaded in the same area of memory.
 
 #leaving space
 
-```.space # of bytes```
-```.space 1000``` leaves space for 1000 bytes 
-
+```assembly
+.space # of bytes
+.space 1000 #leaves space for 1000 bytes 
+```
