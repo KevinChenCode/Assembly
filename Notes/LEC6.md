@@ -56,6 +56,7 @@ Used to change program flow
 	`bxx	ra,	rb,	Dest`
 
 where xx is:
+	```
 	eq:		==
 	gw:		!=
 	lt:		<		
@@ -63,6 +64,7 @@ where xx is:
 	ge:		>=
 	le:		<=
 	r :		always
+	```
 
 #Sections
 
